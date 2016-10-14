@@ -1,0 +1,5 @@
+c:\Users\mozol\documents\visual studio 2015\Projects\KDK\Logger\bin\Debug\Logger.dll
+c:\Users\mozol\documents\visual studio 2015\Projects\KDK\Logger\bin\Debug\Logger.pdb
+c:\Users\mozol\documents\visual studio 2015\Projects\KDK\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+c:\Users\mozol\documents\visual studio 2015\Projects\KDK\Logger\obj\Debug\Logger.dll
+c:\Users\mozol\documents\visual studio 2015\Projects\KDK\Logger\obj\Debug\Logger.pdb
